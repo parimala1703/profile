@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Parimala
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!"C:\Users\perur\Downloads\Violet and Blue Modern Professional Gradients Business Promo LinkedIn Article Cover Image.png"
 
 ## About Me
 I am passionate about technology and enjoy working on innovative projects that solve real-world problems. 
